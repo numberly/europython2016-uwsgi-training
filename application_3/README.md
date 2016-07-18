@@ -1,4 +1,4 @@
-# External daemon ...
+# Run an external daemon using uWSGI
 ## Context
 A simple Hello world using memcached.
 

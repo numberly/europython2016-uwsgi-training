@@ -1,4 +1,4 @@
-# Run a gevent based Flask web application
+# Use a queue manager (spooler)
 ## Context
 A simple Hello world with a piece of resilience
 
